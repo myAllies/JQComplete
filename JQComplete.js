@@ -1,4 +1,16 @@
-﻿var AutoCompleteData = null;
+﻿/*!
+* jQComplete JavaScript Library v1.0.0
+* http://jqcomplete.myallies.com/
+*
+* Copyright 2012, Mo Samara
+* Dual licensed under the MIT or GPL Version 2 licenses.
+* http://jqcomplete.myallies.com/license
+*
+*
+* Date: Mon Nov 21 21:11:03 2011 -0500
+*/
+
+var AutoCompleteData = null;
 var SearchQueryTimeout;
 
 (function($)
