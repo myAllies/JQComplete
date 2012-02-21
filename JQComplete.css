@@ -1,0 +1,13 @@
+﻿.ac_wrapper { width: 210px; padding: 2px 0 2px 1px; }
+.ac_upper { border: solid #CCC 1px; border-radius: 2px; cursor: pointer; height: 24px; background: #F5F5F5; padding-right: 6px; }
+.ac_list { background: white; display: none; border: solid #7f9db9 1px; border-top: 1px white solid; margin-top: -1px; max-height: 300px; overflow-y: auto; position: absolute; width: 208px; z-index: 10; }
+.ac_tip { display: none; }
+.ac_list li { list-style-type: none; padding: 4px; color: #0b54d2; }
+.ac_list li.odd { background: #ebeff9; }
+.ac_list li.even { background: white; }
+.ac_list li:hover { cursor: pointer; background: #c3d9ff; }
+.ac_input_edit { color: Black; font-weight: bold; z-index: 10; }
+.ac_input_readonly { color: #444; font-weight: bold; font-size: 13px !important; margin: 0px !important; padding: 4px !important; background: #F5F5F5; z-index: 10; }
+.ac_selected { color: #0b54d2; font-weight: bold; }
+.ac_watermark { position: relative; top: -18px; left: 7px; color: #2C568E; cursor: text; z-index: 1; }
+.ac_active { background: #c3d9ff; }

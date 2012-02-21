@@ -1,4 +1,4 @@
-﻿/*!
+﻿/*
 * jQComplete JavaScript Library v1.0.0
 * http://jqcomplete.myallies.com/
 *
